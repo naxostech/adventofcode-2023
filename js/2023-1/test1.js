@@ -1,3 +1,5 @@
+// Advent of Code 2023 - Day 1
+
 const fs = require('fs');
 
 const CALIBRATION_VALUES = 'C:/Checkout-SVN/TestValery-HEAD/adventofcode/js/2023-1/calibration-values.txt';
